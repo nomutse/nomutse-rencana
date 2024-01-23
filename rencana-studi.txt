@@ -1,0 +1,8 @@
+RENCANA STUDI PEMROGRAMAN
+
+- Javascript
+  * Basic
+  * OOP
+- PHP Frameworks
+- Python
+- Flutter
