@@ -3,9 +3,11 @@ RENCANA STUDI PEMROGRAMAN
 - Javascript
   * Basic
   * OOP
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
 - PHP Frameworks
-    ^ Laravel
+  ^ Laravel1
 - Python
 - Flutter
+- Python Lanjutan
