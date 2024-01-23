@@ -3,6 +3,7 @@ RENCANA STUDI PEMROGRAMAN
 - Javascript
   * Basic
   * OOP
+- Struktur Data Dasar
 - PHP Frameworks
 - Python
 - Flutter
